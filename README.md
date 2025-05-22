@@ -10,4 +10,4 @@ Final-project.Rmd -> Project report in .rmd format
 
 Final-project.pdf -> Project report in .pdf format
 
-RScript -> R-Script that generates the data analysis
+Final-project.R -> R-Script that generates the data analysis
